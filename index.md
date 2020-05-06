@@ -4,3 +4,4 @@
 
 layout: home
 ---
+The hypothesis: We can live in a high-tech, high-biodiverse world where humans and all other living creatures can thrive together.
