@@ -16,12 +16,22 @@
 title: Justin M. Clark
 email: justinmauriceclark@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Musings on technology, nature and the future.
+  Musings on the future on nature and technology
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: justinclarkHTF
 github_username:  justinmclark
 logo: /assets/img/logo.png
+google_analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165713715-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165713715-1');
+</script>
+
 
 # Build settings
 markdown: kramdown
